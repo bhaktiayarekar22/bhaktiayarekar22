@@ -31,4 +31,4 @@ Welcome to my GitHub! I love exploring data and building machine learning models
 
 <a href="http://www.github.com/bhaktiayarekar22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktiayarekar22&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="https://github.com/bhaktiayarekar22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiayarekar22&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bhaktiayarekar22" align="left"> username=bhaktiayarekar22&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
