@@ -29,7 +29,10 @@ Welcome to my GitHub! I love exploring data and building machine learning models
 
 <a href="http://www.github.com/bhaktiayarekar22"><img src="https://github-readme-stats.vercel.app/api?username=bhaktiayarekar22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="bhaktiayarekar22's GitHub stats" /></a>
 
-<a href="http://www.github.com/bhaktiayarekar22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktiayarekar22&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="https://github.com/bhaktiayarekar22">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktiayarekar22&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" alt="GitHub Streak Stats" />
+</a>
+
 
 <a href="https://github.com/bhaktiayarekar22">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiayarekar22&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
